@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Saigon Neon",
+    "slug": "saigon-neon",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "saigonneon",
+    "splash": {
+      "backgroundColor": "#0a0612",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.saigonneon.app"
+    },
+    "android": {
+      "package": "com.saigonneon.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0a0612"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-speech"
+    ]
+  }
+}

@@ -22,9 +22,6 @@
     },
     "web": {
       "bundler": "metro"
-    },
-    "plugins": [
-      "expo-speech"
-    ]
+    }
   }
 }
